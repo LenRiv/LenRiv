@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I´m Lorena 👋👩‍💻✨
+
+```js
+const LorenaRivas = { 
+pronouns: "she" | "her",
+code: [JavaScript, Typescript, HTM, CSS],
+tools: [Angular, Node, MySql Workbench]
+}
+```
 
 <!--
 **LenRiv/LenRiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
