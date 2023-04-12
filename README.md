@@ -3,8 +3,8 @@
 ```js
 const Lorena_Rivas = { 
 pronouns: "she" | "her",
-code: [JavaScript, Typescript, HTM, CSS],
-tools: [Angular, Node, MySql Workbench]
+code: [JavaScript, Typescript, HTM, CSS, JAVA...],
+tools: [Angular, Node, MySql Workbench, Sass...]
 }
 ```
 
