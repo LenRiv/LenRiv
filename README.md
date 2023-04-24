@@ -1,7 +1,7 @@
 ### Hi, I´m Lorena 👋👩‍💻✨
 
 ```js
-const Lorena_Rivas = { 
+const lorenaRivas = { 
 pronouns: "she" | "her",
 code: [JavaScript, Typescript, HTM, CSS, JAVA...],
 tools: [Angular, Node, MySql Workbench, Sass...]
