@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is  Lorena 👩‍💻✨
-#### I am  Web Developer Junior
+#### I am a Web Developer Junior
 ![I am  Web Developer Junior](https://media.giphy.com/media/AAsj7jdrHjtp6/giphy.gif?cid=ecf05e47x5kdgz7h76ds6r258ax5xgayqkivn59d2o0q5fug&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
