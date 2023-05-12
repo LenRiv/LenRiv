@@ -1,24 +1,13 @@
-### Hi, I´m Lorena 👋👩‍💻✨
+### Hi there 👋, my name is  Lorena 👩‍💻✨
+#### I am  Web Developer Junior
+![I am  Web Developer Junior](https://media.giphy.com/media/AAsj7jdrHjtp6/giphy.gif?cid=ecf05e47x5kdgz7h76ds6r258ax5xgayqkivn59d2o0q5fug&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-```js
-const lorenaRivas = { 
-pronouns: "she" | "her",
-code: [JavaScript, Typescript, HTM, CSS, JAVA...],
-tools: [Angular, Node, MySql Workbench, Sass...]
-}
-```
 
-<!--
-**LenRiv/LenRiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  HTML / CSS / Bootstrap / Sass / JavaScript / Angular / NodeJS / MySQL /
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LenRiv/LenRiv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lorenarivasramirez-fullstackdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@DesarrolloMouse)  
+
+
