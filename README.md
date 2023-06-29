@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is  Lorena 👩‍💻✨
 #### I am a Junior Web Developer 
-![I am  Web Developer Junior]
+I am  Web Developer Junior!
 
 
 Skills:  HTML / CSS / Bootstrap / Sass / JavaScript / Angular / NodeJS / MySQL / Java / 
