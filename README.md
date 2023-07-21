@@ -2,6 +2,9 @@
 #### I am a Junior Web Developer 
 
 ![image](https://github.com/LenRiv/LenRiv/assets/114481404/69bc9b2a-7b83-40ca-8253-41b85c4fd2d0)
+<div>
+  <img src="https://media.giphy.com/media/QzkpIdieotn3i/giphy.gif" width="200"/>
+</div>
 
 
 Skills:  HTML / CSS / Bootstrap / Sass / JavaScript / Angular / NodeJS / MySQL / Java / 
