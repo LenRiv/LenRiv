@@ -1,13 +1,40 @@
-### Hi there 👋, my name is  Lorena 👩‍💻✨
-#### I am a Junior Web Developer 
-
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgwMzRjeHAwNTdoMzVobHVycnkwY2U5NDFpaXR2M2pmNDl2bzNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
-
-
-/ JavaScript / Angular / MySQL / Java / C /
-
-
-## Puedes contáctarme
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LenRiv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lorenarivasramirez-fullstackdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@DesarrolloMouse)  
-
-No dudes en contactarme si quieres hablar sobre proyectos interesantes o colaboraciones!
+<div align="center">
+  <h3>Hi there 👋, my name is Lorena 👩‍💻✨</h3>
+  <h2>I am Developer</h2>
+  
+  ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgwMzRjeHAwNTdoMzVobHVycnkwY2U5NDFpaXR2M2pmNDl2bzNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+  <br>
+  <br>
+  <h2>Skills:</h2>
+   <br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,js,angular,nodejs,mysql,spring,java,c"/>
+    </a>
+  </p>
+  <br>
+ 
+  <h2>Studying:</h2>
+   <br>
+   <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,linux"/>
+    </a>
+  </p>
+  <br>
+  <h2>Contac:</h2>
+   <br>
+  <a href="https://github.com/LenRiv">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/lorenarivasramirez-fullstackdev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/@DesarrolloMouse">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2ZXkza2JsYThuMnA4ZXB5eHQxdmozd2NkNjRpanp4dDFsY2VoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif" alt="YouTube" height="40" />
+  </a>
+  <br>
+  <br>
+  <p style="font-family: Arial, sans-serif; font-size: 18px;">Feel free to reach out if you'd like to discuss interesting projects or collaborations!</p>
+</div>
+</div>
