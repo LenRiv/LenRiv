@@ -22,7 +22,7 @@
     </a>
   </p>
   <br>
-  <h2>Contac:</h2>
+  <h2>Contact:</h2>
    <br>
   <a href="https://github.com/LenRiv">
     <img src="https://skillicons.dev/icons?i=github" />
