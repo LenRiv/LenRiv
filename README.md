@@ -2,7 +2,9 @@
   <h3>Hi there 👋, my name is Lorena 👩‍💻✨</h3>
   <h2>I am Developer</h2>
   
-  ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgwMzRjeHAwNTdoMzVobHVycnkwY2U5NDFpaXR2M2pmNDl2bzNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+ 
+  ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNpM29vZGxzcW12Z2xiYWNoNTA1MXk1YmNoZHNoZ204cHJ1cWtyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDd5b7NUbS1C1PMjUl/giphy-downsized.gif)
+
   <br>
   <br>
   <h2>Skills:</h2>
