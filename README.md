@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.youtube.com/@DesarrolloMouse">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2ZXkza2JsYThuMnA4ZXB5eHQxdmozd2NkNjRpanp4dDFsY2VoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif" alt="YouTube" height="40" />
+    <img src="https://api.iconify.design/logos:youtube.svg" alt="YouTube" with="10" height="32" />
   </a>
   <br>
   <br>
