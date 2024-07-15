@@ -22,8 +22,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,linux"/> 
       <img src="https://tryhackme-badges.s3.amazonaws.com/lorivas.png" alt="TryHackMe">
-
-    </a>
   </p>
   <br>
   <h2>Contact:</h2>
